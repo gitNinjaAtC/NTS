@@ -22,9 +22,11 @@ This app is part of the larger **NTS-Library ecosystem** designed for book disco
 
 Clone the repository and install the dependencies:
 
+```bash
 git clone https://github.com/gitNinjaAtC/NTS.git
 cd NTS
 npm install
+```
 
 ▶️ Run the Server
 
